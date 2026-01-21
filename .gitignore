@@ -1,4 +1,4 @@
-**/Manifest
+#**/Manifest
 **/files/*.patch.bz2
 *.orig
 *.rej
