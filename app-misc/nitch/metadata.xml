@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>josh@joshrandall.net</email>
+		<name>Joshua Randall</name>
+	</maintainer>
+	<use>
+		<flag name="nerd-fonts">Use Nerd Font icons in output (requires a Nerd Font to be installed)</flag>
+	</use>
+	<upstream>
+		<remote-id type="github">ssleert/nitch</remote-id>
+	</upstream>
+</pkgmetadata>
