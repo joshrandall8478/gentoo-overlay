@@ -15,7 +15,7 @@ emaint sync -r joshrandall8478
 ```
 
 Manual method:
-Create `/etc/poratge/repos.conf/joshrandall8478.conf`:
+Create `/etc/portage/repos.conf/joshrandall8478.conf`:
 ```ini
 [joshrandall8478]
 location = /var/db/repos/joshrandall8478
