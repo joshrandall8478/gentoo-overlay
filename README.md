@@ -4,7 +4,7 @@ This is my first gentoo overlay, and may have some problems. Pull requests are a
 
 ## Packages
 - nitch
-    - USE=nerd-fonts
+    - `USE=nerd-fonts`
 
 ## How to add?
 
