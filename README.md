@@ -3,8 +3,9 @@
 This is my first gentoo overlay, and may have some problems. Pull requests are always welcome.
 
 ## Packages
-- nitch
-    - `USE=nerd-fonts`
+- app/misc
+    - nitch
+        - `USE=nerd-fonts`
 
 ## How to add?
 
