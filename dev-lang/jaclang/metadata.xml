@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <name>joshrandall8478</name>
+  </maintainer>
+  <longdescription>
+    Jac is a programming language with Python-like syntax that compiles to Python
+    bytecode, JavaScript, and native machine code (C-ABI). It introduces
+    AI-native constructs that allow substituting code blocks with generative AI
+    models, and adds persistence and multi-user concepts at the language level.
+    The package provides the jac CLI for compiling and running Jac programs.
+  </longdescription>
+  <upstream>
+    <remote-id type="pypi">jaclang</remote-id>
+    <remote-id type="github">Jaseci-Labs/jaseci</remote-id>
+  </upstream>
+</pkgmetadata>
